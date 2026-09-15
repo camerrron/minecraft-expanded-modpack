@@ -1,6 +1,6 @@
 # Minecraft Expanded Modpack
 
-Version **1.0.1** - 82 mods total. Built for Minecraft 1.21.1, Fabric loader 0.19.5.
+Version **1.1.0** - 83 mods total. Built for Minecraft 1.21.1, Fabric loader 0.19.5.
 
 ## How to install
 
@@ -26,6 +26,7 @@ Version **1.0.1** - 82 mods total. Built for Minecraft 1.21.1, Fabric loader 0.1
 | Crafting Tweaks | Allows you to rotate, balance or clear crafting grids by the press of a button. | [modrinth.com](https://modrinth.com/mod/crafting-tweaks) |
 | DimWorldBorder | Manage worldborders per-dimension, rather than per-world! | [modrinth.com](https://modrinth.com/mod/dimworldborder) |
 | Fabric API | Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain. | [modrinth.com](https://modrinth.com/mod/fabric-api) |
+| FallingTree | Break down your trees by only cutting one piece of it | [modrinth.com](https://modrinth.com/mod/fallingtree) |
 | FerriteCore | Memory usage optimizations | [modrinth.com](https://modrinth.com/mod/ferrite-core) |
 | Forge Config API Port | NeoForge's & Forge's config systems provided to other modding ecosystems. Designed for a multiloader architecture. | [modrinth.com](https://modrinth.com/mod/forge-config-api-port) |
 | Geckolib | A 3D animation library for entities, blocks, items, armor, and more! | [modrinth.com](https://modrinth.com/mod/geckolib) |
