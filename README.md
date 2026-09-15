@@ -1,3 +1,104 @@
-# Minecraft Expanded Modpack
+# Cobblemon Modpack
 
-Modpack releases live under [Releases](../../releases). This README is overwritten automatically on each release.
+Version **1.0.0** - 82 mods total. Built for Minecraft 1.21.1, Fabric loader 0.19.5.
+
+## How to install
+
+1. Download the zip from this repo's [latest release](../../releases/latest).
+2. Open the CurseForge app -> **Create Custom Profile** -> choose the downloaded zip file.
+3. Launch. No manual mod-matching needed - everything is bundled or referenced in the zip already.
+
+## Gameplay mods (affect the server, everyone needs these)
+
+| Mod | What it does | Link |
+|---|---|---|
+| Almanac | Almanac is a library used by my mods with mostly loader independent shared code between multiple mods to avoid duplication of code. | [modrinth.com](https://modrinth.com/mod/almanac) |
+| AppleSkin | Food/hunger-related HUD improvements | [modrinth.com](https://modrinth.com/mod/appleskin) |
+| Architectury API | An intermediary api aimed to ease developing multiplatform mods. | [modrinth.com](https://modrinth.com/mod/architectury-api) |
+| Athena | A crossplatform (Forge/Fabric) solution to connected block textures for 1.19.4+ | [modrinth.com](https://modrinth.com/mod/athena-ctm) |
+| Balm | Abstraction Layer for Multi-Loader Mods | [modrinth.com](https://modrinth.com/mod/balm) |
+| Bookshelf | An open source library for other mods! | [modrinth.com](https://modrinth.com/mod/bookshelf-lib) |
+| Chunky | Pre-generates chunks, quickly and efficiently | [modrinth.com](https://modrinth.com/mod/chunky) |
+| Cloth Config API | Configuration Library for Minecraft Mods | [modrinth.com](https://modrinth.com/mod/cloth-config) |
+| CobbleFurnies | CobbleFurnies is here to bring your creations to life with beautifully crafted, Cobblemon-inspired furniture that blends seamlessly into your Minecraft world! | [modrinth.com](https://modrinth.com/mod/cobblefurnies) |
+| Cobblemon | A Pokémon mod for Fabric and NeoForge | [modrinth.com](https://modrinth.com/mod/cobblemon) |
+| Collective | 🎓 Collective is a shared library with common code for all of Serilum's mods. | [modrinth.com](https://modrinth.com/mod/collective) |
+| Crafting Tweaks | Allows you to rotate, balance or clear crafting grids by the press of a button. | [modrinth.com](https://modrinth.com/mod/crafting-tweaks) |
+| DimWorldBorder | Manage worldborders per-dimension, rather than per-world! | [modrinth.com](https://modrinth.com/mod/dimworldborder) |
+| Fabric API | Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain. | [modrinth.com](https://modrinth.com/mod/fabric-api) |
+| FerriteCore | Memory usage optimizations | [modrinth.com](https://modrinth.com/mod/ferrite-core) |
+| Forge Config API Port | NeoForge's & Forge's config systems provided to other modding ecosystems. Designed for a multiloader architecture. | [modrinth.com](https://modrinth.com/mod/forge-config-api-port) |
+| Geckolib | A 3D animation library for entities, blocks, items, armor, and more! | [modrinth.com](https://modrinth.com/mod/geckolib) |
+| IceAndFire Community Edition | The community version of mod Ice and Fire | [modrinth.com](https://modrinth.com/mod/iceandfire-ce) |
+| Jupiter | A powerful, auto sync config library. | [modrinth.com](https://modrinth.com/mod/jupiter) |
+| Jurassic Revived | A Minecraft mod that brings dinosaurs back to life using ancient DNA and modern technology \| Experience the classic old models with improved performance, and build your own prehistoric park with a wide variety of creatures... | [modrinth.com](https://modrinth.com/mod/jurassic-revived) |
+| Let Me Despawn | Improves performance by tweaking mob despawn rules. Say bye to pesky unintentional persistent mobs. | [modrinth.com](https://modrinth.com/mod/lmd) |
+| Lithium | No-compromises game logic optimization mod, useful for both single-player games and multi-player servers. | [modrinth.com](https://modrinth.com/mod/lithium) |
+| Many More Ores and Crafts | Adds 14 ores and recipes (Swords, Armors, Tools and Blocks) | [modrinth.com](https://modrinth.com/mod/many-more-ores-and-crafts) |
+| Monsters in the Closet | Highlights the mobs that are preventing you from sleeping | [modrinth.com](https://modrinth.com/mod/monsters-in-the-closet) |
+| NetherPortalFix | Ensures correct destinations when traveling back and forth through Nether Portals in Multiplayer. | [modrinth.com](https://modrinth.com/mod/netherportalfix) |
+| Open Loader | An open source resource and data loader for Minecraft. | [modrinth.com](https://modrinth.com/mod/open-loader) |
+| Penchant | A rework of enchanting, centered around leveling up enchantments through usage | [modrinth.com](https://modrinth.com/mod/penchant) |
+| Prickle | Prickle is a JSON based configuration file format brought to Minecraft. | [modrinth.com](https://modrinth.com/mod/prickle) |
+| Radical Cobblemon Trainers | Over 1500 unique and challenging trainers, from the Pokemon ROM hacks Radical Red (v3.02) and Unbound (v2.0.3.2) as well as the main series games Brilliant Diamond/Shining Pearl, that will spawn naturally in your world. | [modrinth.com](https://modrinth.com/mod/rctmod) |
+| Radical Cobblemon Trainers API | Trainer management and battle API for Cobblemon. | [modrinth.com](https://modrinth.com/mod/rctapi) |
+| Radical Gyms & Structures [Cobblemon] | Adds naturally spawning gyms & other structures(soon™) for the key trainers featured in the Radical Cobblemon Trainers mod. | [modrinth.com](https://modrinth.com/mod/radical-gyms-cobblemon) |
+| TPA Mod | A tiny mod, that lets you send teleportation requests to other players | [modrinth.com](https://modrinth.com/mod/tpa-mod) |
+| The Aether | The Aether Team presents the original Aether mod! Maintained and kept up to date for modern versions of Minecraft and fully compatible with multiplayer! | [modrinth.com](https://modrinth.com/mod/aether) |
+| Your Items Are Safe | 💀 Spawns a chest and armor stand with player items on death, a gravestone alternative. | [modrinth.com](https://modrinth.com/mod/your-items-are-safe) |
+| oωo (owo-lib) | A general utility, GUI and config library for modding on Fabric and Quilt | [modrinth.com](https://modrinth.com/mod/owo-lib) |
+| Advanced Core Info |  | [www.curseforge.com](https://www.curseforge.com/projects/1661923) |
+| Advanced Loot Info |  | [www.curseforge.com](https://www.curseforge.com/projects/1205426) |
+| Sophisticatedbackpacks |  | [www.curseforge.com](https://www.curseforge.com/projects/979322) |
+| Sophisticatedcore |  | [www.curseforge.com](https://www.curseforge.com/projects/979317) |
+| Uranus |  | [www.curseforge.com](https://www.curseforge.com/projects/1010827) |
+
+## Client-side mods (visual/QoL only - the server doesn't need these, but the pack includes them for a consistent experience)
+
+| Mod | What it does | Link |
+|---|---|---|
+| Ambient Environment | Adds more ambiance to a Minecraft world | [modrinth.com](https://modrinth.com/mod/ambient-environment) |
+| Better Advancements | Better Advancements tries to improve the UI and UX for the advancements system in minecraft 1.12+ in a modded environment | [modrinth.com](https://modrinth.com/mod/better-advancements) |
+| Better Third Person | Improves third person camera view. | [modrinth.com](https://modrinth.com/mod/better-third-person) |
+| CraftPresence | Completely Customize the way others see you play in Discord! | [modrinth.com](https://modrinth.com/mod/craftpresence) |
+| Dynamic Crosshair | A mod that hides or changes the crosshair dependent on context | [modrinth.com](https://modrinth.com/mod/dynamiccrosshair) |
+| EMI | A featureful and accessible item and recipe viewer | [modrinth.com](https://modrinth.com/mod/emi) |
+| EMI Enchanting | EMI Plugin that gives basic enchantment information; valid items, exlcusions, etc. | [modrinth.com](https://modrinth.com/mod/emi-enchanting) |
+| EMI Ores | Easily view ore generation information from inside EMI. | [modrinth.com](https://modrinth.com/mod/emi-ores) |
+| Enchantment Descriptions | Provides a way to get enchantment descriptions from enchanted books. | [modrinth.com](https://modrinth.com/mod/enchantment-descriptions) |
+| Enhanced Attack Indicator | Uses the attack indicator for more than just melee attacks | [modrinth.com](https://modrinth.com/mod/enhanced-attack-indicator) |
+| Entity Culling | Using async path-tracing to hide Block-/Entities that are not visible | [modrinth.com](https://modrinth.com/mod/entityculling) |
+| Falling Leaves | Adds a neat little particle effect to leaf blocks | [modrinth.com](https://modrinth.com/mod/fallingleaves) |
+| FancyMenu | Customize Minecraft's menus with ease! | [modrinth.com](https://modrinth.com/mod/fancymenu) |
+| InvMove | Adds the ability to walk around while in inventories | [modrinth.com](https://modrinth.com/mod/invmove) |
+| InvMoveCompats | Addon for InvMove that adds additional mod compatibilities | [modrinth.com](https://modrinth.com/mod/invmovecompats) |
+| Iris Shaders | A modern shader pack loader for Minecraft intended to be compatible with existing OptiFine shader packs | [modrinth.com](https://modrinth.com/mod/iris) |
+| Just Enough Effect Descriptions (JEED) | JEI plugin that displays information on all status effects | [modrinth.com](https://modrinth.com/mod/just-enough-effect-descriptions-jeed) |
+| Konkrete | Just another boring library mod. | [modrinth.com](https://modrinth.com/mod/konkrete) |
+| LambDynamicLights - Dynamic Lights | Adds dynamic lights to Minecraft as the most feature-complete and optimized dynamic lighting mod. | [modrinth.com](https://modrinth.com/mod/lambdynamiclights) |
+| Loading Backgrounds | With this mod you will be able to customize the background of the loading screens of the Minecraft games, placing any type of customizable image. | [modrinth.com](https://modrinth.com/mod/loading-backgrounds) |
+| Melody | OpenAL-based library mod for playing background music. | [modrinth.com](https://modrinth.com/mod/melody) |
+| Mod Menu | Adds a mod menu to view the list of mods you have installed. | [modrinth.com](https://modrinth.com/mod/modmenu) |
+| Not Enough Animations | Bringing first-person animations to the third-person | [modrinth.com](https://modrinth.com/mod/not-enough-animations) |
+| Particular ✨ Reforged | Particular is a mod that enhances Minecraft's ambience with many hand-crafted visual effects. | [modrinth.com](https://modrinth.com/mod/particular-reforged) |
+| Presence Footsteps | ..An Overly complicated Sound Mod... | [modrinth.com](https://modrinth.com/mod/presence-footsteps) |
+| Reese's Sodium Options | Alternative Options Menu for Sodium | [modrinth.com](https://modrinth.com/mod/reeses-sodium-options) |
+| Shulker Box Tooltip | Easily view the contents of Shulker Boxes and Bundles directly from your inventory with a clean, colorful preview tooltip. | [modrinth.com](https://modrinth.com/mod/shulker-box-tooltip-mod) |
+| Sodium | A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter. | [modrinth.com](https://modrinth.com/mod/sodium) |
+| Sodium Extra | A Sodium addon that adds features that shouldn't be in Sodium. | [modrinth.com](https://modrinth.com/mod/sodium-extra) |
+| Sodium Shadowy Path Blocks (SSPB) | Reintroduces vanilla-like smooth lighting to non-full blocks (e.g. dirt paths and how they have dark shading when directly next to a full block) when using Sodium. | [modrinth.com](https://modrinth.com/mod/sodium-shadowy-path-blocks) |
+| Soft Imprints | A client-side mod that adds dynamic block trails | [modrinth.com](https://modrinth.com/mod/snow-imprints) |
+| Text Placeholder API | Placeholder and Text manipulation library for your Minecraft mods. | [modrinth.com](https://modrinth.com/mod/placeholder-api) |
+| UniLib | A common set of Utilities, designed for over 50 versions of Minecraft! | [modrinth.com](https://modrinth.com/mod/unilib) |
+| Wakes | Adds splashes and wakes while traveling on water | [modrinth.com](https://modrinth.com/mod/wakes) |
+| Xaero's Minimap | Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked. | [modrinth.com](https://modrinth.com/mod/xaeros-minimap) |
+| Xaero's World Map | Adds a full screen world map which shows you what you have explored in the world. Works great together with Xaero's Minimap. | [modrinth.com](https://modrinth.com/mod/xaeros-world-map) |
+| YetAnotherConfigLib (YACL) | A builder-based configuration library for Minecraft! | [modrinth.com](https://modrinth.com/mod/yacl) |
+| [EMF] Entity Model Features | EMF is an, OptiFine format, Custom Entity Model replacement mod available for Fabric and Forge. | [modrinth.com](https://modrinth.com/mod/entity-model-features) |
+| [ETF] Entity Texture Features | Emissive, Random & Custom texture support for entities in resourcepacks just like Optifine but for Fabric | [modrinth.com](https://modrinth.com/mod/entitytexturefeatures) |
+| Chunkygui |  | [www.curseforge.com](https://www.curseforge.com/projects/1658884) |
+| Emiprofessions |  | [www.curseforge.com](https://www.curseforge.com/projects/1065904) |
+| Swingthrough |  | [www.curseforge.com](https://www.curseforge.com/projects/1402841) |
+
+---
+Generated automatically from the server repo's pinned mod lists - do not edit by hand, it's overwritten on every release.
