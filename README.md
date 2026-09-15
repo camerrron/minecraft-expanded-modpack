@@ -1,6 +1,6 @@
-# Cobblemon Modpack
+# Minecraft Expanded Modpack
 
-Version **1.0.0** - 82 mods total. Built for Minecraft 1.21.1, Fabric loader 0.19.5.
+Version **1.0.1** - 82 mods total. Built for Minecraft 1.21.1, Fabric loader 0.19.5.
 
 ## How to install
 
