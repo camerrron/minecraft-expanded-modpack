@@ -1,6 +1,6 @@
 # Minecraft Expanded Modpack
 
-Version **1.2.0** - 84 mods total. Built for Minecraft 1.21.1, Fabric loader 0.19.5.
+Version **1.2.1** - 84 mods total. Built for Minecraft 1.21.1, Fabric loader 0.19.5.
 
 ## How to install
 
