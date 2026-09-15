@@ -1,6 +1,6 @@
 # Minecraft Expanded Modpack
 
-Version **1.1.0** - 83 mods total. Built for Minecraft 1.21.1, Fabric loader 0.19.5.
+Version **1.2.0** - 84 mods total. Built for Minecraft 1.21.1, Fabric loader 0.19.5.
 
 ## How to install
 
@@ -25,6 +25,7 @@ Version **1.1.0** - 83 mods total. Built for Minecraft 1.21.1, Fabric loader 0.1
 | Collective | 🎓 Collective is a shared library with common code for all of Serilum's mods. | [modrinth.com](https://modrinth.com/mod/collective) |
 | Crafting Tweaks | Allows you to rotate, balance or clear crafting grids by the press of a button. | [modrinth.com](https://modrinth.com/mod/crafting-tweaks) |
 | DimWorldBorder | Manage worldborders per-dimension, rather than per-world! | [modrinth.com](https://modrinth.com/mod/dimworldborder) |
+| Essential Commands | Configurable, permissions-backed utility commands for Fabric servers (tpa, home, warp, spawn, back, nick, rtp) | [modrinth.com](https://modrinth.com/mod/essential-commands) |
 | Fabric API | Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain. | [modrinth.com](https://modrinth.com/mod/fabric-api) |
 | FallingTree | Break down your trees by only cutting one piece of it | [modrinth.com](https://modrinth.com/mod/fallingtree) |
 | FerriteCore | Memory usage optimizations | [modrinth.com](https://modrinth.com/mod/ferrite-core) |
@@ -35,6 +36,7 @@ Version **1.1.0** - 83 mods total. Built for Minecraft 1.21.1, Fabric loader 0.1
 | Jurassic Revived | A Minecraft mod that brings dinosaurs back to life using ancient DNA and modern technology \| Experience the classic old models with improved performance, and build your own prehistoric park with a wide variety of creatures... | [modrinth.com](https://modrinth.com/mod/jurassic-revived) |
 | Let Me Despawn | Improves performance by tweaking mob despawn rules. Say bye to pesky unintentional persistent mobs. | [modrinth.com](https://modrinth.com/mod/lmd) |
 | Lithium | No-compromises game logic optimization mod, useful for both single-player games and multi-player servers. | [modrinth.com](https://modrinth.com/mod/lithium) |
+| LuckPerms | A permissions plugin/mod for Minecraft servers. | [modrinth.com](https://modrinth.com/mod/luckperms) |
 | Many More Ores and Crafts | Adds 14 ores and recipes (Swords, Armors, Tools and Blocks) | [modrinth.com](https://modrinth.com/mod/many-more-ores-and-crafts) |
 | Monsters in the Closet | Highlights the mobs that are preventing you from sleeping | [modrinth.com](https://modrinth.com/mod/monsters-in-the-closet) |
 | NetherPortalFix | Ensures correct destinations when traveling back and forth through Nether Portals in Multiplayer. | [modrinth.com](https://modrinth.com/mod/netherportalfix) |
@@ -44,7 +46,6 @@ Version **1.1.0** - 83 mods total. Built for Minecraft 1.21.1, Fabric loader 0.1
 | Radical Cobblemon Trainers | Over 1500 unique and challenging trainers, from the Pokemon ROM hacks Radical Red (v3.02) and Unbound (v2.0.3.2) as well as the main series games Brilliant Diamond/Shining Pearl, that will spawn naturally in your world. | [modrinth.com](https://modrinth.com/mod/rctmod) |
 | Radical Cobblemon Trainers API | Trainer management and battle API for Cobblemon. | [modrinth.com](https://modrinth.com/mod/rctapi) |
 | Radical Gyms & Structures [Cobblemon] | Adds naturally spawning gyms & other structures(soon™) for the key trainers featured in the Radical Cobblemon Trainers mod. | [modrinth.com](https://modrinth.com/mod/radical-gyms-cobblemon) |
-| TPA Mod | A tiny mod, that lets you send teleportation requests to other players | [modrinth.com](https://modrinth.com/mod/tpa-mod) |
 | The Aether | The Aether Team presents the original Aether mod! Maintained and kept up to date for modern versions of Minecraft and fully compatible with multiplayer! | [modrinth.com](https://modrinth.com/mod/aether) |
 | Your Items Are Safe | 💀 Spawns a chest and armor stand with player items on death, a gravestone alternative. | [modrinth.com](https://modrinth.com/mod/your-items-are-safe) |
 | oωo (owo-lib) | A general utility, GUI and config library for modding on Fabric and Quilt | [modrinth.com](https://modrinth.com/mod/owo-lib) |
